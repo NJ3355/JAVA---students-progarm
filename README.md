@@ -1,4 +1,4 @@
-# JAVA---students-progarm
+# JAVA---students-program
 
 Project I created for my intro to java class. Uses swing to create a GUI to visualize storing a students information and adding data to it.
 
